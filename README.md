@@ -14,9 +14,17 @@
 
 [改造版AozoraEpub3](https://github.com/kyukyunyorituryo/AozoraEpub3/wiki)
 
+[小説投稿サイトの形式を相互に変換](https://kyukyunyorituryo.github.io/narouconv/)
 
+[青空文庫エディター](https://kyukyunyorituryo.github.io/AozoraEditor/)
 
 [目次変換](https://99nyorituryo.hatenablog.com/entry/2014/05/30/225517)
+
+## キンドルのセールサイトを運営しています
+
+[kindleセールチェック](https://kyukyunyorituryo.github.io/kindle_sale/)
+
+[電書ニュース](https://kyukyunyorituryo.github.io/i/)
 
 
 

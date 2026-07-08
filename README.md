@@ -14,6 +14,10 @@
 
 [改造版AozoraEpub3](https://github.com/kyukyunyorituryo/AozoraEpub3/wiki)
 
+[AozoraEpub3のJavaScriptに移植版](https://github.com/kyukyunyorituryo/AozoraEpub3JS)
+
+[nodejsで固定レイアウトEPUB作成]([https://github.com/kyukyunyorituryo/AozoraEpub3JS](https://github.com/kyukyunyorituryo/fxlepub3_node))
+
 [小説投稿サイトの形式を相互に変換](https://kyukyunyorituryo.github.io/narouconv/)
 
 [青空文庫エディター](https://kyukyunyorituryo.github.io/AozoraEditor/)
